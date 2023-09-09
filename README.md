@@ -12,10 +12,10 @@
 - Logistic Regression
 
 ## Model architecture
-![Model](../KHUDA_ML_Term/notebooks/model_architecture.png)
+![Model](notebooks/model_architecture.png)
 
 ## inference
-![Inf](../KHUDA_ML_Term/notebooks/inference.png)
+![Inf](notebooks/inference.png)
 
 
 
